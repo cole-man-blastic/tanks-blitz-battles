@@ -1,2 +1,1 @@
-# tanks-blitz-battles
-Tanks Blitz Battles
+# Tanks Blitz Battles
